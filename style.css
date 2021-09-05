@@ -18,7 +18,7 @@ body {
 
 .image{
   width: 25%;
-  margin: 50px;
+  margin-top: 50px;
 }
 
 .web-image{
@@ -131,6 +131,7 @@ hr{
    display: inline-block;
    cursor: pointer;
    text-align: center;
+   margin-bottom: 50px;
 }
 
 .btn:hover {
@@ -146,30 +147,3 @@ hr{
    border-radius: 20px;
    text-decoration: none;
 }
-/*
-.one{
-  background-color: red;
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  left: 200px;
-  top: 1225.440px;
-
-}
-.two{
-  background-color: blue;
-  height: 100px;
-  width: 100px;
-  position: absolute;
-  right: 500px;
-  top: 1125.440px;
-  left: 100px;
-
-}
-.three{
-  background-color: yellow;
-  height: 100px;
-  width: 100px;
-
-}
-*/
